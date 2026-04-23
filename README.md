@@ -21,3 +21,6 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Lang
 3. Store in a vector database
 4. Retrieve relevant context
 5. Generate response using LLM
+
+## Documentation
+- HLD, LLD, and Technical Documentation are available in the `/docs` folder.
